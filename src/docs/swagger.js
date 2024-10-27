@@ -13,7 +13,7 @@ export const swaggerDocs = {
       "API REST para gestión de usuarios y tareas con autenticación JWT",
     contact: {
       name: "Soporte API",
-      email: "markrubii20@gmail.com",
+      email: "markrubi2@gmail.com",
     },
   },
   servers: [
