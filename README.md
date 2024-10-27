@@ -33,7 +33,7 @@ API REST construida con Node.js y Express que proporciona un sistema de autentic
 1. Clona el repositorio:
 
 ```bash
-git clone <url-de-tu-repositorio>
+git clone <https://github.com/Mrk2016/ApiRest>
 ```
 
 2. Instala las dependencias:
